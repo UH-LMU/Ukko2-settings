@@ -7,4 +7,4 @@ whatis("Keywords: Miniconda3 4.5.12")
 whatis("URL: ")
 whatis("Description: This is Miniconda3!")
 
-prepend_path( "PATH",           "/proj/hajaalin/Software/Miniconda3/4.5.12/bin")
+prepend_path( "PATH", "/proj/hajaalin/Miniconda3/4.5.12/bin")
